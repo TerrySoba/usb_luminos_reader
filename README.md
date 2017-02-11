@@ -13,6 +13,6 @@ There is a much more complete libraray for the Cleware devices available for Win
 # Building
 
 CMake is used as a build system.
-just run ```cmake . && make``` to build the tool.
+Just run ```cmake . && make``` to build the tool.
 
-For usage run ```usb_luminos_reader -h```
+For usage run ```usb_luminos_reader -h```.
